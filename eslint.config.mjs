@@ -18,11 +18,30 @@ const eslintConfig = [
 
   {
     files: ['**/*.{js,jsx,ts,tsx}'],
+    languageOptions: {
+      ecmaVersion: 2022,
+      sourceType: 'module',
+      parserOptions: {
+        ecmaFeatures: {
+          // This enables implied strict mode for all files
+          impliedStrict: true,
+          jsx: true,
+        },
+      },
+    },
     rules: {
+      // STRICT MODE ENFORCEMENT
+      strict: ['error', 'never'], // Prevents explicit "use strict" since we use implied strict
+
       // ONLY CODE QUALITY RULES (no formatting)
       'no-unused-vars': 'off', // handled by TypeScript
       '@typescript-eslint/no-unused-vars': 'warn',
       'react-hooks/exhaustive-deps': 'warn',
+
+      // Additional quality rules that work well with strict mode
+      'no-undef': 'error',
+      'no-redeclare': 'error',
+      'no-implicit-globals': 'error',
 
       // DISABLE ALL FORMATTING RULES
       indent: 'off',

@@ -6,7 +6,7 @@
   "trailingComma": "es5",
   "bracketSpacing": true,
   "bracketSameLine": false,
-  "arrowParens": "avoid",
+  "arrowParens": "always",
   "endOfLine": "lf",
   "plugins": [
     "@ianvs/prettier-plugin-sort-imports"
