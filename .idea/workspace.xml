@@ -4,14 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="209dc28e-99d3-4172-adeb-8e4ba91fd242" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
+    <list default="true" id="209dc28e-99d3-4172-adeb-8e4ba91fd242" name="Changes" comment="Pre 'this' operator module">
+      <change afterPath="$PROJECT_DIR$/public/js-course/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/card-lazy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/digital-lazy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/digital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/grow-lazy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/grow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/user-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/user-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/img/user-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js-course/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,13 +73,14 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Learning/NextJS/Projects/javascript-course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Learning/NextJS/Projects/javascript-course/public/js-course&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -61,16 +90,19 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;F:\\Learning\\NextJS\\Projects\\javascript-course\\node_modules\\prettier&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;liveEdit&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;ts.external.directory.path&quot;: &quot;F:\\Learning\\NextJS\\Projects\\javascript-course\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Learning\NextJS\Projects\javascript-course\public\js-course" />
       <recent name="F:\Learning\NextJS\Projects\javascript-course\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Learning\NextJS\Projects\javascript-course\public\js-course" />
       <recent name="F:\Learning\NextJS\Projects\javascript-course\public\js-course\lesson-1" />
       <recent name="F:\Learning\NextJS\Projects\javascript-course\public" />
     </key>
@@ -93,7 +125,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
       </set>
     </attachedChunks>
   </component>
@@ -110,11 +142,40 @@
       <workItem from="1754696765471" duration="327000" />
       <workItem from="1754697323846" duration="19528000" />
       <workItem from="1755130142259" duration="1151000" />
-      <workItem from="1755348481473" duration="1414000" />
+      <workItem from="1755348481473" duration="40301000" />
+      <workItem from="1756590650363" duration="156000" />
+      <workItem from="1756590852287" duration="198000" />
+      <workItem from="1756591122079" duration="336000" />
+      <workItem from="1756591658235" duration="14599000" />
+      <workItem from="1756745090056" duration="37112000" />
     </task>
+    <task id="LOCAL-00001" summary="Pre 'this' operator module">
+      <option name="closed" value="true" />
+      <created>1755373568392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755373568392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pre 'this' operator module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre 'this' operator module" />
   </component>
 </project>
